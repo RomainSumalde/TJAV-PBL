@@ -410,7 +410,7 @@ section{
 
     .box-container{
         margin-top: 3rem;
-        @include grid(16rem);
+        @include grid(25rem);
         align-items: flex-end;
 
         .box{

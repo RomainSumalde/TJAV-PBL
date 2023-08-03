@@ -387,7 +387,7 @@ section {
 .about .box-container {
   margin-top: 3rem;
   display: grid;
-  grid-template-columns: repeat auto-fit, minmax(16rem, 1fr);
+  grid-template-columns: repeat auto-fit, minmax(25rem, 1fr);
   gap: 2rem;
   align-items: flex-end;
 }
